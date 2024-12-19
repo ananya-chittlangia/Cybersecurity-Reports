@@ -29,3 +29,4 @@ The reports are for educational purposes only. All data and scenarios are simula
     - A detailed checklist for evaluating organizational security controls and compliance with frameworks like PCI DSS, GDPR, and SOC.
 
 6. **Network Traffic Analysis Cybersecurity Incident Report**
+    - Investigated network traffic to identify potential security threats and vulnerabilities.
